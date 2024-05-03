@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Honk&display=swap');
+
+
+h1{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+h2{
+    font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+}
+.container{
+    background-image: url(img/rosa.png);
+    background-image: center;
+    background-size: cover;
+    text-align:center;
+}
+.text-1{
+    font-size: 58px;
+}
+.text-2{
+    font-size: 36px;
+}
+.parrafo-1{
+    font-size: 36px;
+}
+
+.parrafo-2{
+    font-size: 20px;
+}
+.titan-one-regular {
+    font-family: "Honk", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "MORF" 15,
+        "SHLN" 50;
+}
+body::-webkit-scrollbar{
+    width: 15px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: rgb(253, 213, 36);
+    border-radius: 50px;
+}
+body::-webkit-scrollbar-thumb:hover{
+    background-color: rgb(255, 166, 32);
+}
+    
+
